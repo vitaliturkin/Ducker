@@ -1,4 +1,4 @@
-/* Color Palette */
+/* Color Palette 
 black: rgb(23, 42, 69); #172A45;
 orange: rgb(255, 112, 67); #FF7043;
 lightgreen: rgba(67, 255, 196, 0.7); #43FFC4B3;
@@ -6,6 +6,7 @@ bg-color: rgb(190, 221, 214);  #BEDDD6;
 bg-dark-color: rgb(175, 200, 197); #AFC8C5;
 clicked-cell: rgb(133, 173, 175); #85ADAF;
 transparent red: rgba(255, 112, 67, 0.7); #FF7043B3;
+*/
 
 /* Generic */
 * {
